@@ -1,3 +1,5 @@
+//Aluna: Lendy Naiara Carpio Pacheco - 10428525
+
 package TAD.Funcionario;
 
 import java.util.Scanner;

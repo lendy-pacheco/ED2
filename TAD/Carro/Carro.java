@@ -1,4 +1,7 @@
+//Aluna: Lendy Naiara Carpio Pacheco - 10428525
+
 package TAD.Carro;
+
 public class Carro{
     private String marca;
     private String modelo;
